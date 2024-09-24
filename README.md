@@ -54,6 +54,7 @@ Usa la interfaz para seleccionar el directorio, el número de dígitos y las opc
 
 ## 📂 Estructura del proyecto
 
+```
 Digital-Audio-Renamer/
 │
 ├── assets/             # Logo y otros recursos gráficos
@@ -64,6 +65,7 @@ Digital-Audio-Renamer/
 ├── audio_samples/      # Archivos de audio de ejemplo
 ├── README.md           # Este archivo
 └── requirements.txt    # Dependencias necesarias
+```
 
 ## ✨ Licencia
 Este proyecto está bajo una Licencia para uso docente. Los sonidos y archivos incluidos son solo muestras y no se pueden utilizar sin el permiso expreso de los autores.
