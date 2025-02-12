@@ -62,7 +62,6 @@ Digital-Audio-Renamer/
 │   ├── renamer.py         # Lógica de renombrado
 │   ├── main.py            # Archivo principal que ejecuta la interfaz gráfica
 │   └── rename_by_list.py  # Funciones de utilidad
-├── audio_samples/         # Archivos de audio de ejemplo
 ├── README.md              # Este archivo
 ```
 
