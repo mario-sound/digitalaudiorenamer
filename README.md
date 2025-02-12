@@ -35,7 +35,7 @@ Nota: No hay muchas dependencias externas, pero asegúrate de tener una versión
 Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone [https://github.com/tuusuario/Digital-Audio-Renamer.git](https://github.com/mario-sound/digitalaudiorenamer)
+   git clone https://github.com/mario-sound/digitalaudiorenamer
    ```
 
 Navega hasta el directorio del proyecto:
@@ -57,14 +57,13 @@ Usa la interfaz para seleccionar el directorio, el número de dígitos y las opc
 ```
 Digital-Audio-Renamer/
 │
-├── assets/             # Logo y otros recursos gráficos
-├── src/                # Código fuente del programa
-│   ├── renamer.py      # Lógica de renombrado
-│   ├── main.py         # Archivo principal que ejecuta la interfaz gráfica
-│   └── utils.py        # Funciones de utilidad
-├── audio_samples/      # Archivos de audio de ejemplo
-├── README.md           # Este archivo
-└── requirements.txt    # Dependencias necesarias
+├── img/                   # Logo y otros recursos gráficos
+├── code/                  # Código fuente del programa
+│   ├── renamer.py         # Lógica de renombrado
+│   ├── main.py            # Archivo principal que ejecuta la interfaz gráfica
+│   └── rename_by_list.py  # Funciones de utilidad
+├── audio_samples/         # Archivos de audio de ejemplo
+├── README.md              # Este archivo
 ```
 
 ## ✨ Licencia
