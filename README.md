@@ -35,7 +35,7 @@ Nota: No hay muchas dependencias externas, pero asegúrate de tener una versión
 Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/Digital-Audio-Renamer.git
+   git clone [https://github.com/tuusuario/Digital-Audio-Renamer.git](https://github.com/mario-sound/digitalaudiorenamer)
    ```
 
 Navega hasta el directorio del proyecto:
